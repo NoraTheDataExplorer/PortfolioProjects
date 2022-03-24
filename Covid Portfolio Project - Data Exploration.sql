@@ -1,7 +1,6 @@
 /*
 Covid 19 Data Exploration 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-Project walkthrough by Alex The Analyst on Youtube
 */
 
 Select * From coviddeathdata$
